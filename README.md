@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Mann Khant
 
-<!--
-**MannKhant12/MannKhant12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student** at **Darshan University**  
+👨‍🏫 **Teaching Assistant** at Darshan University  
+🌐 **Web Design & Frontend Development Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 📚 Currently studying **B.Tech in Computer Engineering** at **Darshan University**
+- 👨‍🏫 Working as a **Teaching Assistant** (Web Design)
+- 🎨 Passionate about building **clean, responsive & modern UI**
+- 🚀 Always learning new web technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,js" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+---
+
+## 📌 Areas of Interest
+- Web Design  
+- Frontend Development  
+- UI/UX Optimization  
+- Modern JavaScript Frameworks  
+
+---
+
+## 📫 Connect With Me
+- GitHub: **https://github.com/MannKhant**  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
